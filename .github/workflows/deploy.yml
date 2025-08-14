@@ -14,7 +14,8 @@ jobs:
           docker-compose --version
       - name: Checking out code
         run: |
-          cd /home/ubuntu/finch/finch-frontend
+          cd "C:\Users\brothers gadget\Desktop\finch-frontend-main"
+
           git stash
           git fetch
           git checkout dev
