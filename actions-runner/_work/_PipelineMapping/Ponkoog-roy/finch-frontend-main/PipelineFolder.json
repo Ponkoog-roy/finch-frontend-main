@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Ponkoog-roy/finch-frontend-main",
+  "pipelineDirectory": "finch-frontend-main",
+  "workspaceDirectory": "finch-frontend-main\\finch-frontend-main",
+  "repositories": {
+    "Ponkoog-roy/finch-frontend-main": {
+      "repositoryPath": "finch-frontend-main\\finch-frontend-main",
+      "lastRunOn": "08/15/2025 00:56:54 +06:00"
+    }
+  },
+  "lastRunOn": "08/15/2025 00:56:54 +06:00"
+}

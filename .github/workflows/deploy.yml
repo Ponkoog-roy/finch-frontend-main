@@ -3,8 +3,7 @@ name: Deploy Docker Compose App
 on:
   push:
     branches: [dev] # Change this to your default branch if different
-  workflow_dispatch: # Allows manual triggering
-
+  workflow_dispatch: 
 jobs:
   deploy:
     runs-on: ostad     # This ensures the workflow runs on your machine
